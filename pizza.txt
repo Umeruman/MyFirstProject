@@ -1,0 +1,4 @@
+recipe from kheets
+1.go to dominos.com
+2.add to card
+3.proceed to payment
